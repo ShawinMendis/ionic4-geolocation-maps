@@ -1,0 +1,7 @@
+{
+  "appId": "com.pwa.app",
+  "appName": "pwa",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
