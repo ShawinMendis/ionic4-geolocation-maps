@@ -1,5 +1,5 @@
 # ionic4-geolocation-maps
-Ionic 4 native device features- geolocation using capacitor and Angular google maps component using angular google maps
+Ionic 4 native device features- geolocation using capacitor and Angular google maps.
 
 In this project we use native device features like geolocation and recieve the cordinates of the current location and display on a google map inside the application.(hybrid or PWA).
 
