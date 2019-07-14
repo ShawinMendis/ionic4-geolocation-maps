@@ -1,7 +1,8 @@
 # ionic4-geolocation-maps
-Ionic $ Geolocation using capacitor and Angular google maps.
+Ionic 4 Geolocation using capacitor and Angular google maps.
 
-In this project we use native device features like geolocation and recieve the cordinates of the current location and display on a google map inside the application.(hybrid or PWA).
+Web application which uses native device features like Geo location and a map component to show the current location of the user.
+For this project we use ionic 4 framework, Angular Google Maps(AGM) & Capacitor which provides native functionality for web apps.
 
 STEP 01
 
@@ -13,14 +14,14 @@ Go to google console and create an javascript API key for maps.
 
 STEP 03
 
-Replace the google map API key in environment/environment.ts 
+Replace the google map API key in environment/environment.ts file.
 
 STEP 04 
 
 Run ionic serve or ionic serve --lab to run the project locally.
 
 
-You can find the demo in here
+
 
 
 
