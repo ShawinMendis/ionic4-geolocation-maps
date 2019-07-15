@@ -72,10 +72,7 @@ export class Tab1Page implements OnInit {
       buttons: [
         {
           icon: "close-circle",
-          role: "cancel",
-          handler: () => {
-            toast.dismiss();
-          }
+          role: "cancel"
         }
       ]
     });
